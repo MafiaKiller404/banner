@@ -1,9 +1,8 @@
 #This Script id created by noobzcoder
-#Don't copy or modify code Read License First
 clear
 echo ""
 
-read -p " Does you want to install Banner Shell in Termux?(Yes/No) : " input
+read -p " Does you want to install this Banner in Termux?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
     clear
