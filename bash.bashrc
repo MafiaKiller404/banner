@@ -1,3 +1,4 @@
+
 command_not_found_handle() {
         /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 
@@ -23,7 +24,7 @@ echo "    MP         ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~        YM "
 echo "    YMb           ~YMMMM\ OOOOI•••••IOOOOO /MMMMP~           dMP "
 echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
-echo "                  Noobz       ~OOOOO~       Coder "
+echo "             Hlw we are       ~OOOOO~    Noobz"
 echo "              _ "
 echo "             / \ ._  | o ._   _    |_|  _.  _ |  o ._   _ "
 echo "             \_/ | | | | | | (/_   | | (_| (_ |< | | | (_| "
@@ -31,9 +32,9 @@ echo "                                                        _| "
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m github.com/noobzcoder
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m noobzcoder"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mFacebook  \e[1;91m =  \e[1;97m fb.com/NoobZ"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mFacebook  \e[1;91m =  \e[1;97m noobZ99"
 echo ""
 echo ''
 
