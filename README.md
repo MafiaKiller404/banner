@@ -16,7 +16,8 @@
 `$ Yes`
 Now Restart Termux.
 
-## Creadit TERMUX PROFESSIOR
+## Creadit 
+TERMUX PROFESSIOR
 
 # Follow me
 <p align="center">
